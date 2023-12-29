@@ -1,0 +1,6 @@
+package-lock.json
+package.json
+__pycache__/
+instance/
+migrations/
+node_modules/
